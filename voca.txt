@@ -29,13 +29,6 @@ garner 얻다, 모으다
 monetary 화폐의, 금전의, 재정적인
 
 
-allowance 수당, 용돈
-diagram 도형, 도표
-discrepancy 차이
-
-
-
-
 
 
 alumni 졸업생들, 동창생들
@@ -190,6 +183,31 @@ retrive 되찾다
 confiscate 압수하다, 물색하다
 
 
+whenever ~할 때마다
+whereas ~이지만, ~한 반면에
+as soon as ~하자마자
+as long as 오직 ~하는 경우에만
+providing that 오직 ~하는 경우에만
+intervene 개입하다
+halt 멈추다, 중지시키다
+downswing 하락,위축
+as, since ~이기 때문에
+now that ~이니까
+in that ~라는 점에서
+so that ~할 수 있도록
+but that ~을 제외하고는
+given that ~을 고려했을때
+transaction 거래
+by the time ~할 때까지
+on -ing ~하자마자
+so as to ~하기 위해서
+expedite 신속히 처리하다
+adjacent 가까운, 인접한
+refute 부인하다
+disvulge 알려주다, 누설하다
+confidential 기밀의
+admittance 입원, 입장
+
 
 authentic 진정한, 진짜의
 intrusive 침입의
@@ -241,11 +259,6 @@ integrity 진실성
 incorporating 통합
 interdisciplinary 둘 이상 분야에 걸치는
 foster 조성하다
-
-
-
-
-13, 5, 
 
 
 
