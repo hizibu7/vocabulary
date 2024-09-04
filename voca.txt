@@ -29,6 +29,13 @@ garner 얻다, 모으다
 monetary 화폐의, 금전의, 재정적인
 
 
+allowance 수당, 용돈
+diagram 도형, 도표
+discrepancy 차이
+
+
+
+
 
 
 alumni 졸업생들, 동창생들
@@ -183,33 +190,62 @@ retrive 되찾다
 confiscate 압수하다, 물색하다
 
 
-whenever ~할 때마다
-whereas ~이지만, ~한 반면에
-as soon as ~하자마자
-as long as 오직 ~하는 경우에만
-providing that 오직 ~하는 경우에만
-intervene 개입하다
-halt 멈추다, 중지시키다
-downswing 하락,위축
-as, since ~이기 때문에
-now that ~이니까
-in that ~라는 점에서
-so that ~할 수 있도록
-but that ~을 제외하고는
-given that ~을 고려했을때
-transaction 거래
-by the time ~할 때까지
-on -ing ~하자마자
-so as to ~하기 위해서
-expedite 신속히 처리하다
-adjacent 가까운, 인접한
-refute 부인하다
-disvulge 알려주다, 누설하다
-confidential 기밀의
-admittance 입원, 입장
+
+authentic 진정한, 진짜의
+intrusive 침입의
+taxonomy 분류, 분류학
+prevalent 널리 퍼지다
+evade 피하다, 면하다, 모면하다
+convincing 설득력 있는
+counterfeit 위조품
+genuine 진짜의, 진품의
+manipulate 조작하다
+deceptive 기만적인
+sophistication 지적교양
+implemention 구현
+compilation 편집, 편집물
+proliferation 증식
+fabricate 조작
+scrutinize 세밀히 조작하다, 철저히 검사하다
+facets 측면
+decern 식별하다, 분별하다
+versatility 다재다능, 융통성있음
+pivotal 중추의
+intricate 복잡한
+garnered 수집된
+impersonation 성대모사
+facilitate 용이하게 하다
+deceitful 속임수의
+susceptible 취약한
+drawback 단점
+tampering 변조
+sophisticated 세련된
+subtle 미묘한
+provenance 증명
+cryptographic 암호의
+dissemination 전파
+relentless 냉혹한, 가차없는
+pursuit 추적, 추격
+elucidate 설명하다, 해명하다
+vulnerability 취약성
+malicious 악의있는, 심술궂은
+wherein 어떤 점으로, 어디에
+contingent 우발적
+exponentailly 기하급수적으로
+vast 방대한
+interpretability 해석 가능성
+accountability 책임, 의무
+multidisciplinary 다학제적
+endeavor 노력
+integrity 진실성
+incorporating 통합
+interdisciplinary 둘 이상 분야에 걸치는
+foster 조성하다
 
 
 
+
+13, 5, 
 
 
 
